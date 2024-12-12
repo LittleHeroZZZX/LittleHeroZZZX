@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ZhouXin.
+# 👋 Hi there, I'm Zhou Xin.
 
 ## 🚀 About Me
 
