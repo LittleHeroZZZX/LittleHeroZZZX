@@ -1,7 +1,12 @@
-![](https://komarev.com/ghpvc/?username=LittleHeroZZZX)
+# 👋 Hi there, I'm ZhouXin.
 
+## 🚀 About Me
 
-![info](https://github-readme-stats.vercel.app/api?username=LittleHeroZZZX&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+I'm a graduate student at the School of Software Engineering, University of Science and Technology of China (USTC). 
+
+My passion lies in the field of AI systems, while I'm still a beginner , eagerly learning and growing with each new challenge.
+
+I maintain a personal blog at [https://zhouxin.space](https://zhouxin.space), where I share my learning notes and insights. It's a collection of my journey in AI. Feel free to visit and leave comments!
 
 
 <!--
